@@ -1,0 +1,9 @@
+C:\Users\goobe\source\repos\Hackajob\KataLib\bin\Debug\netstandard2.0\KataLib.deps.json
+C:\Users\goobe\source\repos\Hackajob\KataLib\bin\Debug\netstandard2.0\KataLib.dll
+C:\Users\goobe\source\repos\Hackajob\KataLib\bin\Debug\netstandard2.0\KataLib.pdb
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.csprojAssemblyReference.cache
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.csproj.CoreCompileInputs.cache
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.AssemblyInfoInputs.cache
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.AssemblyInfo.cs
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.dll
+C:\Users\goobe\source\repos\Hackajob\KataLib\obj\Debug\netstandard2.0\KataLib.pdb

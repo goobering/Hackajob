@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataTests", "KataTests\KataTests.csproj", "{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataLib", "KataLib\KataLib.csproj", "{C58B9A27-C123-41B2-8492-83EDA4530FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|x64.Build.0 = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|x64.Build.0 = Release|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECCC1CAA-4672-4CF0-83A5-F8A89426BF23}.Release|x86.Build.0 = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|x64.Build.0 = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|x64.ActiveCfg = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|x64.Build.0 = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4C2C231-8EE3-4AAF-AE56-719B76800B9D}.Release|x86.Build.0 = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|x64.Build.0 = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Debug|x86.Build.0 = Debug|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|x64.ActiveCfg = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|x64.Build.0 = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|x86.ActiveCfg = Release|Any CPU
+		{C58B9A27-C123-41B2-8492-83EDA4530FC7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
